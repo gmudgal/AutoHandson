@@ -12,4 +12,4 @@ Scenario Outline: Open youtube and gmail
 Examples: 
 
 | URL1              | URL2                |
-| https://uipath.com | https://youtube.com |
+| https://uipath.com | https://acme.com |
