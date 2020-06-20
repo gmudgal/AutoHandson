@@ -105,3 +105,4 @@ C:\SpecflowProjects\NUnitTestProject1\NUnitTestProject1\obj\Debug\netcoreapp3.1\
 C:\SpecflowProjects\NUnitTestProject1\NUnitTestProject1\obj\Debug\netcoreapp3.1\NUnitTestProject1.dll
 C:\SpecflowProjects\NUnitTestProject1\NUnitTestProject1\obj\Debug\netcoreapp3.1\NUnitTestProject1.pdb
 C:\SpecflowProjects\NUnitTestProject1\NUnitTestProject1\obj\Debug\netcoreapp3.1\NUnitTestProject1.genruntimeconfig.cache
+C:\SpecflowProjects\NUnitTestProject1\NUnitTestProject1\obj\Debug\netcoreapp3.1\NUnitTestProject1.csprojAssemblyReference.cache

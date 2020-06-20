@@ -77,7 +77,7 @@ namespace NUnitTestProject1.Features
         [NUnit.Framework.TestAttribute()]
         [NUnit.Framework.DescriptionAttribute("Open youtube and gmail")]
         [NUnit.Framework.CategoryAttribute("mytag")]
-        [NUnit.Framework.TestCaseAttribute("https://gmail.com", "https://youtube.com", null)]
+        [NUnit.Framework.TestCaseAttribute("https://uipath.com", "https://youtube.com", null)]
         public virtual void OpenYoutubeAndGmail(string uRL1, string uRL2, string[] exampleTags)
         {
             string[] @__tags = new string[] {
