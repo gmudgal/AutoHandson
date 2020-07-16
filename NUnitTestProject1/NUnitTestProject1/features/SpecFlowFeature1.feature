@@ -4,12 +4,33 @@
 	I want to be told the sum of two numbers
 
 @mytag
-Scenario Outline: Open youtube and gmail
-	Given I have entered <URL1> into the browser
-	And I have entered <URL2> into the browser
-	When I press add
-	Then the result should be 120 on the screen
-Examples: 
+Scenario Outline: Login to test site
+	Given I have navigated to <URL> acme site
+	When I enter credentials 'gaurav.mudgal@gmail.com' and password 'Market@2st'
+	Then I click on Login button
+	Then I should see the homepage
 
-| URL1              | URL2                |
-| https://uipath.com | https://acme.com |
+	Examples: 
+	| URL                           |
+	| https://youtube.com/ |
+
+Scenario Outline: Login to gmail
+	Given I have navigated to <URL> acme site
+	When I enter credentials 'gaurav.mudgal@gmail.com' and password 'Market@2st'
+	Then I click on Login button
+	Then I should see the homepage
+
+	Examples: 
+	| URL                           |
+	| https://gmail.com/ |
+
+
+Scenario Outline: Login to qtpselenium.com
+	Given I have navigated to <URL> acme site
+	When I enter credentials 'gaurav.mudgal@gmail.com' and password 'Market@2st'
+	Then I click on Login button
+	Then I should see the homepage
+
+	Examples: 
+	| URL                           |
+	| https://qtpselenium.com/ |

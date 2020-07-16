@@ -98,6 +98,7 @@ C:\SpecflowProjects\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\
 C:\SpecflowProjects\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
 C:\SpecflowProjects\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
 C:\SpecflowProjects\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\SpecflowProjects\NUnitTestProject1\NUnitTestProject1\obj\Debug\netcoreapp3.1\NUnitTestProject1.csprojAssemblyReference.cache
 C:\SpecflowProjects\NUnitTestProject1\NUnitTestProject1\obj\Debug\netcoreapp3.1\NUnitTestProject1.csproj.CoreCompileInputs.cache
 C:\SpecflowProjects\NUnitTestProject1\NUnitTestProject1\obj\Debug\netcoreapp3.1\NUnitTestProject1.AssemblyInfoInputs.cache
 C:\SpecflowProjects\NUnitTestProject1\NUnitTestProject1\obj\Debug\netcoreapp3.1\NUnitTestProject1.AssemblyInfo.cs
@@ -105,4 +106,3 @@ C:\SpecflowProjects\NUnitTestProject1\NUnitTestProject1\obj\Debug\netcoreapp3.1\
 C:\SpecflowProjects\NUnitTestProject1\NUnitTestProject1\obj\Debug\netcoreapp3.1\NUnitTestProject1.dll
 C:\SpecflowProjects\NUnitTestProject1\NUnitTestProject1\obj\Debug\netcoreapp3.1\NUnitTestProject1.pdb
 C:\SpecflowProjects\NUnitTestProject1\NUnitTestProject1\obj\Debug\netcoreapp3.1\NUnitTestProject1.genruntimeconfig.cache
-C:\SpecflowProjects\NUnitTestProject1\NUnitTestProject1\obj\Debug\netcoreapp3.1\NUnitTestProject1.csprojAssemblyReference.cache
