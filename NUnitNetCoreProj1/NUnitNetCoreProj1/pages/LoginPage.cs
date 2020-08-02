@@ -19,7 +19,7 @@ namespace NUnitNetCoreProj1.pages
         public IWebElement txtusrName => WebDriver.FindElement(By.Name("UserName"));
         public IWebElement txtpassword => WebDriver.FindElement(By.Name("Password"));
         public IWebElement loginButton => WebDriver.FindElement(By.CssSelector(".btn-default"));
-        public IWebElement lnkEmployeeDetails => WebDriver.FindElement(By.LinkText("Employee Details"));
+        public IWebElement lnkEmployeeDetails => WebDriver.FindElement(By.LinkText("Employee Detailsss"));
 
 
         public void clickLogin() => lnkLogin.Click();
